@@ -90,7 +90,7 @@
   margin: 16px;
   background-color: #fff;
   border-radius: 8px;
-  max-width: 800px;
+  /*max-width: 800px;*/
   display: flex;
   flex-direction: row;
 }
@@ -156,4 +156,53 @@
 }
 .wcp-admin-panel-wrapper .main form fieldset .wcp-uploaded-image-preview_wrapper img {
   max-width: 300px;
+}
+
+.wcp-marketing-block {
+  background: linear-gradient(135deg, #f0f7ff 0%, #e0ecff 100%);
+  border-radius: 14px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.07);
+  padding: 32px 28px;
+  margin: 32px 0 0 0;
+  text-align: center;
+  border: 1.5px solid #b3d8ff;
+  margin: 16px;
+}
+.wcp-marketing-block h3 {
+  color: #0073aa;
+  font-size: 1.6em;
+  margin-bottom: 18px;
+  letter-spacing: 0.5px;
+}
+.wcp-marketing-block .wcp-marketing-pro {
+  color: #005177;
+}
+.wcp-marketing-block ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 24px 0;
+}
+.wcp-marketing-block ul li {
+  margin: 18px 0;
+  font-size: 1.13em;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+}
+.wcp-marketing-icon {
+  font-size: 1.5em;
+}
+.wcp-marketing-icon-yellow { color: #ffb300; }
+.wcp-marketing-icon-teal { color: #00bfae; }
+.wcp-marketing-icon-pink { color: #ff4081; }
+.wcp-marketing-icon-blue { color: #536dfe; }
+.wcp-marketing-icon-red { color: #ff1744; }
+.wcp-marketing-btn {
+  font-size: 1.15em;
+  padding: 12px 32px;
+  border-radius: 6px;
+  background: linear-gradient(90deg,#0073aa 60%,#005177 100%);
+  border: none;
+  box-shadow: 0 2px 8px rgba(0,115,170,0.10);
 }

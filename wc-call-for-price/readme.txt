@@ -2,11 +2,11 @@
 Contributors: wcpress
 Tags: call for price, request a quote, name your price, catalog mode, hide price
 Requires at least: 5.8
-Tested up to: 6.6
+Tested up to: 6.8
 WC requires at least: 6.6
-WC tested up to: 9.2
+WC tested up to: 9.9
 Requires PHP: 7.2
-Stable tag: 1.5.1
+Stable tag: 1.5.2
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -15,6 +15,9 @@ A Feature-Rich Plugin (aka Extension) for Dynamic Control to Show/Hide Price or 
 == Description ==
 
 > **Hide your product price with a message or button. Redirect your customers to another page to get the know the price. With WC Call for Price for WooCommerce, get more engagement from your customers**
+
+
+> **[See Feature Details](https://wcpress.net/wc-call-for-price-woocommerce-plugin/?utm_source=WordPressPlugin&utm_medium=readme&utm_campaign=organic&utm_content=SeeFetureDetails)**
 
 === Features At a Glance===
 **📣 Hide Price:** Hide your product price with a message like `Call for Price` or `Contact for Price`.
@@ -139,6 +142,10 @@ This is a minor release with tweaking and fixes.
 
 
 == Changelog ==
+
+= 1.5.2 ( 01 July 2025 ) =
+* 🧩 **Compatibility:** Tested upto WordPress 6.8
+* 🧩 **Compatibility:** Tested upto WooCommerce 9.9
 
 = 1.5.1 ( 28 August 2024 ) =
 * ✅ **Feature** Category selection added
